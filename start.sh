@@ -4,13 +4,13 @@ echo "
 
 THANK YOU FOR DEPLOYING }
 
-TOR TOOLKIT X
+TOR TOOLKIT DewX 
 
 Version - 0.2.6-Heroku-Master-Finalised.
 
-CREATED BY - Yash Khadse
+CREATED BY - @Dew_Cool
 
-KANGED AND MODDED BY KANGERSHUB.....
+KANGED AND MODDED BY Dew 's Club.....
 
 "
 
@@ -33,7 +33,7 @@ echo "Starting TTK-X engine in 10 seconds"
                  let "hour=hour-1"
          done
 
-echo "ttk-x engine starting now --------"
+echo "Dew-x engine starting now 🤩👌--------"
 
 
 aria2c --conf-path="aria2.conf" -D
